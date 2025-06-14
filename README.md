@@ -4,14 +4,14 @@ Predicting Urban Taxi Fare with Machine Learning
 Urban Transportation Analytics & Predictive Modeling
 
 # Skills 
-Exploratory Data Analysis (EDA)
-Data cleaning and preprocessing
-Data Visualization with Matplotlib & Seaborn
-Feature Engineering 
-Regression Model Building
-Model Evaluation & Comparison
-Hyperparameter Tuning
-Streamlit
+1. Exploratory Data Analysis (EDA)
+2. Data cleaning and preprocessing
+3. Data Visualization with Matplotlib & Seaborn
+4. Feature Engineering 
+5. Regression Model Building
+6. Model Evaluation & Comparison
+7. Hyperparameter Tuning
+8. Streamlit
 
 ## Real World Use Cases
 
